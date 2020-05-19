@@ -811,7 +811,7 @@ section {
 }
 
 .js:before {
-  width: 50%;
+  width: 10%;
   background-color: #f7e018;
 }
 
@@ -824,7 +824,7 @@ section {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 .portfolio-block a {
